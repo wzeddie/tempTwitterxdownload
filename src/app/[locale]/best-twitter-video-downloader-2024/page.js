@@ -27,7 +27,7 @@ export default function BestTwitterVideoDownloader2024({ params: { locale } }) {
       description: isChinese(locale)
         ? '深度评测2024年最佳Twitter视频下载器，包括功能对比、使用教程和专业建议。'
         : 'In-depth review of the best Twitter video downloader for 2024, including feature comparison, tutorials, and professional recommendations.',
-      image: 'https://ai-xdownload.xyz/images/best-twitter-downloader-2024.jpg',
+      image: 'https://www.domainsuffix.top/images/best-twitter-downloader-2024.jpg',
       datePublished: '2024-12-20',
       dateModified: '2024-12-20'
     },
@@ -36,7 +36,7 @@ export default function BestTwitterVideoDownloader2024({ params: { locale } }) {
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "TwitterXDownload - Best Twitter Video Downloader 2024",
-        "image": "https://ai-xdownload.xyz/images/best-twitter-downloader-2024.jpg",
+        "image": "https://www.domainsuffix.top/images/best-twitter-downloader-2024.jpg",
         "description": isChinese(locale) 
           ? "2024年最佳Twitter视频下载器，支持4K/HD画质，无水印，完全免费。"
           : "Best Twitter video downloader for 2024, supporting 4K/HD quality, no watermarks, completely free.",

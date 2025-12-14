@@ -156,7 +156,7 @@ export default function SocialShare({
               "name": "TwitterXDownload",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://ai-xdownload.xyz/images/logo.png"
+                "url": "https://www.domainsuffix.top/images/logo.png"
               }
             }
           })

@@ -24,7 +24,7 @@ async function translate(text, targetLang){
                     "sec-fetch-mode": "cors",
                     "sec-fetch-site": "cross-site"
                 },
-                referrer: "https://ai-xdownload.xyz/",
+                referrer: "https://www.domainsuffix.top/",
                 referrerPolicy: "strict-origin-when-cross-origin",
                 body: null,
                 mode: "cors",

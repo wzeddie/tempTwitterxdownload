@@ -7,16 +7,16 @@ export const metadata = {
   description: '详细教程：如何在iPhone上快速下载推特视频和GIF。支持iOS Safari浏览器，无需安装App，免费使用。解决iPhone下载推特视频的常见问题。',
   keywords: '如何在iPhone下载推特视频, iPhone推特视频下载, iPhone下载Twitter视频, iOS下载推特视频, iPhone保存推特视频, Safari下载推特视频',
   alternates: {
-    canonical: 'https://ai-xdownload.xyz/tutorials/iphone-twitter-video-download',
+    canonical: 'https://www.domainsuffix.top/tutorials/iphone-twitter-video-download',
   },
   openGraph: {
     title: '如何在iPhone下载推特视频 - 详细教程指南',
     description: '详细教程：如何在iPhone上快速下载推特视频和GIF。支持iOS Safari浏览器，无需安装App，免费使用。',
     type: 'article',
-    url: 'https://ai-xdownload.xyz/tutorials/iphone-twitter-video-download',
+    url: 'https://www.domainsuffix.top/tutorials/iphone-twitter-video-download',
     images: [
       {
-        url: 'https://ai-xdownload.xyz/images/iphone-twitter-video-download.jpg',
+        url: 'https://www.domainsuffix.top/images/iphone-twitter-video-download.jpg',
         width: 1200,
         height: 630,
         alt: 'iPhone下载推特视频教程',
@@ -29,7 +29,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: '如何在iPhone下载推特视频 - 详细教程指南',
     description: '详细教程：如何在iPhone上快速下载推特视频和GIF。支持iOS Safari浏览器，无需安装App，免费使用。',
-    images: ['https://ai-xdownload.xyz/images/iphone-twitter-video-download.jpg'],
+    images: ['https://www.domainsuffix.top/images/iphone-twitter-video-download.jpg'],
   },
   robots: {
     index: true,
@@ -53,8 +53,8 @@ export default async function IPhoneTwitterVideoDownloadTutorial({ params: { loc
   const tutorialData = {
     title: '如何在iPhone下载推特视频：最详细的教程指南',
     description: '本教程将详细指导您如何在iPhone上轻松下载推特(Twitter/X)视频和GIF，支持iOS Safari浏览器，无需安装任何App。',
-    url: 'https://ai-xdownload.xyz/tutorials/iphone-twitter-video-download',
-    image: 'https://ai-xdownload.xyz/images/iphone-twitter-video-download.jpg',
+    url: 'https://www.domainsuffix.top/tutorials/iphone-twitter-video-download',
+    image: 'https://www.domainsuffix.top/images/iphone-twitter-video-download.jpg',
     duration: 'PT5M',
     datePublished: '2024-12-19',
     dateModified: '2024-12-19',
@@ -63,25 +63,25 @@ export default async function IPhoneTwitterVideoDownloadTutorial({ params: { loc
         "@type": "HowToStep",
         "name": "复制推特视频链接",
         "text": "在iPhone上打开Twitter/X App或Safari浏览器，找到包含视频的推文，点击分享按钮，选择复制链接",
-        "image": "https://ai-xdownload.xyz/images/step1-copy-link.jpg"
+        "image": "https://www.domainsuffix.top/images/step1-copy-link.jpg"
       },
       {
         "@type": "HowToStep",
         "name": "打开TwitterXDownload网站",
         "text": "在Safari浏览器中访问twitterxdownload.com，等待页面完全加载",
-        "image": "https://ai-xdownload.xyz/images/step2-open-website.jpg"
+        "image": "https://www.domainsuffix.top/images/step2-open-website.jpg"
       },
       {
         "@type": "HowToStep",
         "name": "粘贴链接并解析",
         "text": "在输入框中粘贴链接，确认格式正确，点击下载按钮，等待系统解析",
-        "image": "https://ai-xdownload.xyz/images/step3-paste-parse.jpg"
+        "image": "https://www.domainsuffix.top/images/step3-paste-parse.jpg"
       },
       {
         "@type": "HowToStep",
         "name": "选择视频质量并下载",
         "text": "根据需要选择高清或标清质量，推荐选择MP4格式，点击对应的下载按钮",
-        "image": "https://ai-xdownload.xyz/images/step4-select-quality.jpg"
+        "image": "https://www.domainsuffix.top/images/step4-select-quality.jpg"
       },
       {
         "@type": "HowToStep",

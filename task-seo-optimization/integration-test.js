@@ -23,7 +23,7 @@ const testUrls = [
   { url: '/landing/mobile-video-download', name: 'Mobile Video Download (Default)' },
 ];
 
-const baseUrl = 'https://ai-xdownload.xyz';
+const baseUrl = 'https://www.domainsuffix.top';
 
 /**
  * 测试单个URL的可访问性

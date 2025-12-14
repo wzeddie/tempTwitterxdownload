@@ -12,14 +12,14 @@ export default function StructuredData({ locale = 'en', pageType = 'website', da
     "@type": "WebSite",
     "name": "TwitterXDownload",
     "alternateName": ["Twitter Video Downloader", "X Video Download", "推特视频下载器"],
-    "url": "https://ai-xdownload.xyz",
+    "url": "https://www.domainsuffix.top",
     "description": "Free Twitter video downloader. Download Twitter videos, GIFs and images quickly and easily. No registration required.",
     "inLanguage": ["en", "zh-CN", "zh-HK", "ja", "ko", "es", "fr", "de", "pt", "ru", "ar"],
     "potentialAction": {
       "@type": "SearchAction",
       "target": {
         "@type": "EntryPoint",
-        "urlTemplate": "https://ai-xdownload.xyz/downloader?url={search_term_string}"
+        "urlTemplate": "https://www.domainsuffix.top/downloader?url={search_term_string}"
       },
       "query-input": "required name=search_term_string"
     },
@@ -36,7 +36,7 @@ export default function StructuredData({ locale = 'en', pageType = 'website', da
     "name": "TwitterXDownload",
     "applicationCategory": "UtilitiesApplication",
     "operatingSystem": "Web Browser",
-    "url": "https://ai-xdownload.xyz",
+    "url": "https://www.domainsuffix.top",
     "description": "Professional Twitter video downloader tool. Download videos, GIFs and images from Twitter/X platform for free.",
     "offers": {
       "@type": "Offer",
@@ -63,8 +63,8 @@ export default function StructuredData({ locale = 'en', pageType = 'website', da
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "TwitterXDownload",
-    "url": "https://ai-xdownload.xyz",
-    "logo": "https://ai-xdownload.xyz/images/logo.png",
+    "url": "https://www.domainsuffix.top",
+    "logo": "https://www.domainsuffix.top/images/logo.png",
     "description": "Leading Twitter video download service provider.",
     "foundingDate": "2024",
     "contactPoint": {
@@ -87,7 +87,7 @@ export default function StructuredData({ locale = 'en', pageType = 'website', da
     "areaServed": "Worldwide",
     "availableChannel": {
       "@type": "ServiceChannel",
-      "serviceUrl": "https://ai-xdownload.xyz/downloader",
+      "serviceUrl": "https://www.domainsuffix.top/downloader",
       "serviceName": "Online Video Downloader"
     }
   };
@@ -174,12 +174,12 @@ export default function StructuredData({ locale = 'en', pageType = 'website', da
       "name": "TwitterXDownload",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://ai-xdownload.xyz/images/logo.png"
+        "url": "https://www.domainsuffix.top/images/logo.png"
       }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://ai-xdownload.xyz${pathname}`
+      "@id": `https://www.domainsuffix.top${pathname}`
     }
   });
 
@@ -267,7 +267,7 @@ function getBreadcrumbItems(pathname, locale) {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": `https://ai-xdownload.xyz/${locale}`
+      "item": `https://www.domainsuffix.top/${locale}`
     }
   ];
 
@@ -276,7 +276,7 @@ function getBreadcrumbItems(pathname, locale) {
   pathSegments.forEach((segment, index) => {
     const position = index + 2;
     const name = formatBreadcrumbName(segment);
-    const url = `https://ai-xdownload.xyz/${locale}/${pathSegments.slice(0, index + 1).join('/')}`;
+    const url = `https://www.domainsuffix.top/${locale}/${pathSegments.slice(0, index + 1).join('/')}`;
     
     items.push({
       "@type": "ListItem",

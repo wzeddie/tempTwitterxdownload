@@ -23,7 +23,7 @@ export default function TwitterResourcesHub({ params: { locale } }) {
       description: isChinese(locale)
         ? '收集整理最全面的Twitter视频下载相关资源，包括工具、教程、技巧等。'
         : 'Comprehensive collection of Twitter video download resources including tools, tutorials, and tips.',
-      image: 'https://ai-xdownload.xyz/images/twitter-resources-hub.jpg',
+      image: 'https://www.domainsuffix.top/images/twitter-resources-hub.jpg',
       datePublished: '2024-12-20',
       dateModified: '2024-12-20'
     }

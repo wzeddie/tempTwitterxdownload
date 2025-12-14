@@ -1,5 +1,5 @@
 export const metadata = {
-  metadataBase: new URL('https://ai-xdownload.xyz'),
+  metadataBase: new URL('https://www.domainsuffix.top'),
 }
 
 export default function RootLayout({ children }) {

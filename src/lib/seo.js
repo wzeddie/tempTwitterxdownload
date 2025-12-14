@@ -1,7 +1,7 @@
  // SEO元数据生成器
 import { getTranslation } from './i18n';
 
-const baseUrl = 'https://ai-xdownload.xyz';
+const baseUrl = 'https://www.domainsuffix.top';
 
 // 默认SEO配置 - 按用户建议优化
 const defaultSEO = {

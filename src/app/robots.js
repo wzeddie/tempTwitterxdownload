@@ -11,6 +11,6 @@ export default function robots() {
         ],
         crawlDelay: 1
       },
-      sitemap: 'https://ai-xdownload.xyz/sitemap.xml',
+      sitemap: 'https://www.domainsuffix.top/sitemap.xml',
     }
   }

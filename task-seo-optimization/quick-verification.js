@@ -10,7 +10,7 @@ const http = require('http');
 
 // 验证配置
 const config = {
-      baseUrl: 'https://ai-xdownload.xyz',
+      baseUrl: 'https://www.domainsuffix.top',
   timeout: 10000,
   userAgent: 'Mozilla/5.0 (compatible; SEO-Verification-Bot/1.0)',
 };
